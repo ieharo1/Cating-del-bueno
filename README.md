@@ -54,20 +54,16 @@ El sistema está configurado para usar MySQL con las siguientes credenciales:
 
 ---
 
-## Desarrollado por Isaac Esteban Haro Torres
+## 👨‍💻 Desarrollado por Isaac Esteban Haro Torres
 
-Ingeniero en Sistemas · Full Stack · Automatización · Data
+**Ingeniero en Sistemas · Full Stack · Automatización · Data**
 
-Email: [zackharo1@gmail.com](mailto:zackharo1@gmail.com)
-
-WhatsApp: 098805517
-
-GitHub: https://github.com/ieharo1
-
-Portafolio: https://ieharo1.github.io/portafolio-isaac.haro/
+- 📧 Email: zackharo1@gmail.com
+- 📱 WhatsApp: 098805517
+- 💻 GitHub: https://github.com/ieharo1
+- 🌐 Portafolio: https://ieharo1.github.io/portafolio-isaac.haro/
 
 ---
 
-## Licencia
+© 2026 Isaac Esteban Haro Torres - Todos los derechos reservados.
 
-© 2026 Isaac Esteban Haro Torres
